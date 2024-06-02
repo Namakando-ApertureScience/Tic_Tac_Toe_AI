@@ -1,14 +1,13 @@
 # Tic_Tac_Toe_AI
 
+A simple **reinforcement agent** that learns Tic Tac Toe.
+
 ## Requirements:
 
-1. numpy
-1. abc
-  - a python library
+- numpy
     
-A simple **reinforcement** agent that learns *Tic Tac Toe*.
-
+Important, do not forget!
 
 ```python
-print("Hallo")
+import numpy
 ```
